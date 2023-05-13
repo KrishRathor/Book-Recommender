@@ -3,6 +3,6 @@
 ## SETUp
 
 RUN commads : 
-pip freeze > requirement.txt
-pip install -r requirement.txt
-flask --app app --debug run
+1) pip freeze > requirement.txt
+2) pip install -r requirement.txt
+3) flask --app app --debug run
